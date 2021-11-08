@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/../../../Dump20210612/db_Nav.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/../../../Dump20210612/db_account.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/../../../Dump20210612/db_comment.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/../../../Dump20210612/db_comment_pic.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/../../../Dump20210612/db_comment_tag.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/../../../Dump20210612/db_discount.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/../../../Dump20210612/db_guess.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/../../../Dump20210612/db_hotel.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/../../../Dump20210612/db_hotel_food_category.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/../../../Dump20210612/db_hotel_guess.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/../../../Dump20210612/db_hotel_img.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/../../../Dump20210612/db_hotel_tag.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/../../../Dump20210612/db_market.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/../../../Dump20210612/db_me_item.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/../../../Dump20210612/db_menu.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/../../../Dump20210612/db_restaurant_nav.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/../../../Dump20210612/db_restaurant_tab_item.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/../../../Dump20210612/db_suggest.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/../../../Dump20210612/db_suggest_food.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/../../../Dump20210612/db_sugguest_food_pic.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/../../../Dump20210612/db_take_out.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/../../../Dump20210612/db_team.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/../../../Dump20210612/db_team_choose_food.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/../../../Dump20210612/db_team_choose_item.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/../../../Dump20210612/db_team_detail.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/../../../Dump20210612/db_team_post_order.sql" dialect="MySQL" />
+  </component>
+</project>

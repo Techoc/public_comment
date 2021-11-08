@@ -1,0 +1,92 @@
+2021-11-08 22:24:37	error	middleware/logging.go:52	invalid character 'A' looking for beginning of value
+github.com/techoc/public_comment/middleware.Logging.func1
+	D:/Projects/GolandProjects/public_comment/middleware/logging.go:52
+github.com/gin-gonic/gin.(*Context).Next
+	C:/Users/techo/go/pkg/mod/github.com/gin-gonic/gin@v1.7.4/context.go:165
+github.com/techoc/public_comment/middleware.ProcessTraceID.func1
+	D:/Projects/GolandProjects/public_comment/middleware/traceid.go:17
+github.com/gin-gonic/gin.(*Context).Next
+	C:/Users/techo/go/pkg/mod/github.com/gin-gonic/gin@v1.7.4/context.go:165
+github.com/gin-gonic/gin.CustomRecoveryWithWriter.func1
+	C:/Users/techo/go/pkg/mod/github.com/gin-gonic/gin@v1.7.4/recovery.go:99
+github.com/gin-gonic/gin.(*Context).Next
+	C:/Users/techo/go/pkg/mod/github.com/gin-gonic/gin@v1.7.4/context.go:165
+github.com/gin-gonic/gin.serveError
+	C:/Users/techo/go/pkg/mod/github.com/gin-gonic/gin@v1.7.4/gin.go:525
+github.com/gin-gonic/gin.(*Engine).handleHTTPRequest
+	C:/Users/techo/go/pkg/mod/github.com/gin-gonic/gin@v1.7.4/gin.go:518
+github.com/gin-gonic/gin.(*Engine).ServeHTTP
+	C:/Users/techo/go/pkg/mod/github.com/gin-gonic/gin@v1.7.4/gin.go:445
+net/http.serverHandler.ServeHTTP
+	C:/Program Files/Go/src/net/http/server.go:2878
+net/http.(*conn).serve
+	C:/Program Files/Go/src/net/http/server.go:1929
+2021-11-08 22:24:37	error	middleware/logging.go:52	invalid character 'A' looking for beginning of value
+github.com/techoc/public_comment/middleware.Logging.func1
+	D:/Projects/GolandProjects/public_comment/middleware/logging.go:52
+github.com/gin-gonic/gin.(*Context).Next
+	C:/Users/techo/go/pkg/mod/github.com/gin-gonic/gin@v1.7.4/context.go:165
+github.com/techoc/public_comment/middleware.ProcessTraceID.func1
+	D:/Projects/GolandProjects/public_comment/middleware/traceid.go:17
+github.com/gin-gonic/gin.(*Context).Next
+	C:/Users/techo/go/pkg/mod/github.com/gin-gonic/gin@v1.7.4/context.go:165
+github.com/gin-gonic/gin.CustomRecoveryWithWriter.func1
+	C:/Users/techo/go/pkg/mod/github.com/gin-gonic/gin@v1.7.4/recovery.go:99
+github.com/gin-gonic/gin.(*Context).Next
+	C:/Users/techo/go/pkg/mod/github.com/gin-gonic/gin@v1.7.4/context.go:165
+github.com/gin-gonic/gin.serveError
+	C:/Users/techo/go/pkg/mod/github.com/gin-gonic/gin@v1.7.4/gin.go:525
+github.com/gin-gonic/gin.(*Engine).handleHTTPRequest
+	C:/Users/techo/go/pkg/mod/github.com/gin-gonic/gin@v1.7.4/gin.go:518
+github.com/gin-gonic/gin.(*Engine).ServeHTTP
+	C:/Users/techo/go/pkg/mod/github.com/gin-gonic/gin@v1.7.4/gin.go:445
+net/http.serverHandler.ServeHTTP
+	C:/Program Files/Go/src/net/http/server.go:2878
+net/http.(*conn).serve
+	C:/Program Files/Go/src/net/http/server.go:1929
+2021-11-08 22:26:12	error	middleware/logging.go:52	invalid character 'A' looking for beginning of value
+github.com/techoc/public_comment/middleware.Logging.func1
+	D:/Projects/GolandProjects/public_comment/middleware/logging.go:52
+github.com/gin-gonic/gin.(*Context).Next
+	C:/Users/techo/go/pkg/mod/github.com/gin-gonic/gin@v1.7.4/context.go:165
+github.com/techoc/public_comment/middleware.ProcessTraceID.func1
+	D:/Projects/GolandProjects/public_comment/middleware/traceid.go:17
+github.com/gin-gonic/gin.(*Context).Next
+	C:/Users/techo/go/pkg/mod/github.com/gin-gonic/gin@v1.7.4/context.go:165
+github.com/gin-gonic/gin.CustomRecoveryWithWriter.func1
+	C:/Users/techo/go/pkg/mod/github.com/gin-gonic/gin@v1.7.4/recovery.go:99
+github.com/gin-gonic/gin.(*Context).Next
+	C:/Users/techo/go/pkg/mod/github.com/gin-gonic/gin@v1.7.4/context.go:165
+github.com/gin-gonic/gin.serveError
+	C:/Users/techo/go/pkg/mod/github.com/gin-gonic/gin@v1.7.4/gin.go:525
+github.com/gin-gonic/gin.(*Engine).handleHTTPRequest
+	C:/Users/techo/go/pkg/mod/github.com/gin-gonic/gin@v1.7.4/gin.go:518
+github.com/gin-gonic/gin.(*Engine).ServeHTTP
+	C:/Users/techo/go/pkg/mod/github.com/gin-gonic/gin@v1.7.4/gin.go:445
+net/http.serverHandler.ServeHTTP
+	C:/Program Files/Go/src/net/http/server.go:2878
+net/http.(*conn).serve
+	C:/Program Files/Go/src/net/http/server.go:1929
+2021-11-08 22:26:20	error	middleware/logging.go:52	invalid character 'A' looking for beginning of value
+github.com/techoc/public_comment/middleware.Logging.func1
+	D:/Projects/GolandProjects/public_comment/middleware/logging.go:52
+github.com/gin-gonic/gin.(*Context).Next
+	C:/Users/techo/go/pkg/mod/github.com/gin-gonic/gin@v1.7.4/context.go:165
+github.com/techoc/public_comment/middleware.ProcessTraceID.func1
+	D:/Projects/GolandProjects/public_comment/middleware/traceid.go:17
+github.com/gin-gonic/gin.(*Context).Next
+	C:/Users/techo/go/pkg/mod/github.com/gin-gonic/gin@v1.7.4/context.go:165
+github.com/gin-gonic/gin.CustomRecoveryWithWriter.func1
+	C:/Users/techo/go/pkg/mod/github.com/gin-gonic/gin@v1.7.4/recovery.go:99
+github.com/gin-gonic/gin.(*Context).Next
+	C:/Users/techo/go/pkg/mod/github.com/gin-gonic/gin@v1.7.4/context.go:165
+github.com/gin-gonic/gin.serveError
+	C:/Users/techo/go/pkg/mod/github.com/gin-gonic/gin@v1.7.4/gin.go:525
+github.com/gin-gonic/gin.(*Engine).handleHTTPRequest
+	C:/Users/techo/go/pkg/mod/github.com/gin-gonic/gin@v1.7.4/gin.go:518
+github.com/gin-gonic/gin.(*Engine).ServeHTTP
+	C:/Users/techo/go/pkg/mod/github.com/gin-gonic/gin@v1.7.4/gin.go:445
+net/http.serverHandler.ServeHTTP
+	C:/Program Files/Go/src/net/http/server.go:2878
+net/http.(*conn).serve
+	C:/Program Files/Go/src/net/http/server.go:1929
